@@ -6,40 +6,14 @@
 - Matkul : Web Pemograman
 
 # Praktikum 6: Web Framework
-1 Buatlah folder baru dengan nama lab6_css_framework, kemudian buat dokumen baru html
+![image](https://user-images.githubusercontent.com/101688124/164942828-6d48dd00-beb5-4441-8abc-0d61509c007d.png)
+![image](https://user-images.githubusercontent.com/101688124/164942853-a3715bb0-71d3-4d6e-8459-a417f20a4c27.png)
+![image](https://user-images.githubusercontent.com/101688124/164942862-58ca9a96-8e2b-4774-aeea-eaa449f1145b.png)
+![image](https://user-images.githubusercontent.com/101688124/164942873-e3446875-c53f-4bda-a280-00c52ab8b54e.png)
+![image](https://user-images.githubusercontent.com/101688124/164942881-cbfbbb16-19b7-4d87-af98-ae33334e9d78.png)
+![image](https://user-images.githubusercontent.com/101688124/164942891-dca7f1e5-d9c6-4247-94de-7502de6b0f26.png)
+![image](https://user-images.githubusercontent.com/101688124/164942896-e6000c9e-efe9-4d03-a1d2-cf43d6c5e3b2.png)
+![image](https://user-images.githubusercontent.com/101688124/164942900-32806467-ab27-4765-ae41-d215cc0e773e.png)
 
-2 Buat layout web sederhana menggunakan css frameword (Twitter Bootsrtap).
-- Quick start Buka web https://getbootstrap.com Disini saya memakai Bootstrap 4. Copy atau download CSS & JS Bootstrap,
-
-- Navbar (navigasi) Buat komponen website yang berupa menu. yang biasanya diletakkan pada header website. Untuk mencari component klik menu documentation pada web bootstrap.
-
-Tampilan browser
-
-umbotron (satu element yang dibuat untuk tujuan membuat semacam pengumuman,konten khusus atau informasi tentang halaman website) Buat jumbotron atau area besar pada Bootstrap, umumnya digunakan untuk menampilkan sebuah infromasi penting.
-
-Tampilan browser
-
-Cards (1) Untuk membuat body konten, saya menggunakan cards. pertama saya akan membagi kolom menggunakan display flex agar dapat memuat 2 kolom yang nanti akan di isi oleh menu List Group.
-
-Penjelasan :
-
-col memberi style sebuah table berdasarkan kolom tertentu
-
-img-rounded-circle untuk membuat border pada gambar menjadi bulat
-
-pt-3 padding top = 3
-
-mt-3 margin top = 3
-
-saya menambah style untuk mengatur ukuran dan posisi pada gambar
-
-tampilan browser
-
-- List Group menambahkan widget disamping kanan cards 1
-
-Tampilan Browser
-
-- Cards (2)
-
-Tampilan browser
-
+# tampilan browser
+![image](https://user-images.githubusercontent.com/101688124/164943005-981c9c59-d753-4a8d-af85-59e659c18f31.png)
